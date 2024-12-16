@@ -1,0 +1,5 @@
+/node_modules
+/new-wallet.json
+/test-ledger
+# getFee.ts
+# transferTo.ts

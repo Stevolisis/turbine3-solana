@@ -1,0 +1,15 @@
+{
+  "name": "solana",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Stevolisis",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.7.2"
+  },
+  "dependencies": {
+    "@solana/web3.js": "^1.95.8",
+    "@types/node": "^22.10.2",
+    "ts-node": "^10.9.2"
+  }
+}
