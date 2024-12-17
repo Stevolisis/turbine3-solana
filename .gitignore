@@ -1,5 +1,6 @@
 /node_modules
 /new-wallet.json
+/second-wallet.json
 /test-ledger
 # getFee.ts
 # transferTo.ts
